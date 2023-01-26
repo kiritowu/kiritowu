@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/kiritowu?template=classic&base.repositories=0&stars=1&achievements=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction=false&introduction.title=true&config.timezone=Asia%2FSingapore)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
