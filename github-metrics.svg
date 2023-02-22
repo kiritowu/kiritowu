@@ -587,7 +587,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="67.38366666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="68.727 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -610,12 +610,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     maintainer
-                                    <span class="gh">ranked 1.31k out of 378m repositories</span>
+                                    <span class="gh">ranked 1.29k out of 378m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">16521</div>
+                                        <div class="value">16651</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 16521 stars</div>
+                                <div class="text">Maintaining a repository with 16651 stars</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -784,7 +784,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="82.80458590006845 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="83.01676933607119 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1035,7 +1035,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.5656565656565657 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1066,12 +1066,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.98m out of 378m repositories</span>
+                                    <span class="gh">ranked 4.22m out of 378m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">2</div>
+                                        <div class="value">1</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining or created a repository which has been forked 2 times</div>
+                                <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -1163,7 +1163,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2023, 08:17:59 (timezone Asia/Singapore) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 22 Feb 2023, 08:16:09 (timezone Asia/Singapore) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
